@@ -1,0 +1,6 @@
+pynput
+requests
+pywin32
+Pillow
+pandas
+openpyxl
